@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shanuhalli
+- 👋 Hi, I’m Shanu Halli
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science with python
 - 💞️ I’m looking to collaborate on ...
