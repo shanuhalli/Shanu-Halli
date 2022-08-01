@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shanu Halli
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science with python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me shanuhalli@gmail.com
 
 <!---
